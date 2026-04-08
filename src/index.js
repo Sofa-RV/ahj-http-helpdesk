@@ -1,4 +1,4 @@
-let tickets = [];  // ГЛОБАЛЬНОЕ состояние
+let tickets = [];
 
 document.addEventListener('DOMContentLoaded', async () => {
   console.log('⭐ HelpDesk HTTP API');
